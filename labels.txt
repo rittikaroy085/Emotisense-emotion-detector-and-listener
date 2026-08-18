@@ -1,4 +1,8 @@
 0 Sad
 1 Angry
 2 Neutral
+<<<<<<< HEAD
 3 Happy
+=======
+3 Happy
+>>>>>>> 9ef6533835f7c76c36364088709eb2311468e6ec
